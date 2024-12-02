@@ -27,8 +27,8 @@ jobs:
       # Step 3: Install dependencies (adjust based on your project)
       - name: Install dependencies
         run: |
-          npm install  # Use this if using Node.js
-          # bundle install # Uncomment this if using Jekyll with Ruby
+          # npm install  # Use this if using Node.js
+          bundle install # Uncomment this if using Jekyll with Ruby
 
       # Step 4: Build the site (adjust command for your project)
       - name: Build site
