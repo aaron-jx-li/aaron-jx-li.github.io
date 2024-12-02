@@ -27,17 +27,17 @@ jobs:
       # Step 3: Install dependencies (adjust based on your project)
       - name: Install dependencies
         run: |
-          # npm install  # Use this if using Node.js
-          bundle install # Uncomment this if using Jekyll with Ruby
+          npm install  # Use this if using Node.js
+          # bundle install # Uncomment this if using Jekyll with Ruby
 
       # Step 4: Build the site (adjust command for your project)
       - name: Build site
         run: |
-          jekyll build 
+          npm run build 
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _site  # Replace with the directory containing your built site
+          publish_dir: build  # Replace with the directory containing your built site
