@@ -1,0 +1,43 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - master  # Replace with your branch if different
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Node.js environment (if applicable)
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      # Step 3: Install dependencies (adjust based on your project)
+      - name: Install dependencies
+        run: |
+          npm install  # Use this if using Node.js
+          # bundle install # Uncomment this if using Jekyll with Ruby
+
+      # Step 4: Build the site (adjust command for your project)
+      - name: Build site
+        run: |
+          jekyll build 
+
+      # Step 5: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site  # Replace with the directory containing your built site
