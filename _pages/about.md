@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a second-year Master's student in Computational Science and Engineering at Harvard University, advised by Prof. [Hima Lakkaraju](https://himalakkaraju.github.io). Previously, I graduated from UC Berkeley with a double major in Computer Science and Psychology, where I also collaborated Prof. [Bin Yu](https://binyu.stat.berkeley.edu/) as part of the EECS Honors Program. 
+I am currently a second-year Master's student in Computational Science and Engineering at Harvard University, advised by Prof. [Hima Lakkaraju](https://himalakkaraju.github.io). Previously, I graduated from UC Berkeley with a double major in Computer Science and Psychology, where I also collaborated with Prof. [Bin Yu](https://binyu.stat.berkeley.edu/) as part of the EECS Honors Program. 
 
 
 I'm broadly interested in the intersections of Trustworthy Machine Learning, Large Language Models, and Mechanistic Interpretability. The two overarching research questions I aim to address are:
