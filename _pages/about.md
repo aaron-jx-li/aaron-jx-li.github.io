@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Cambridge, MA, 02138</p>
+    <p>Berkeley, CA, 94720</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming CS PhD student at UC Berkeley affiliated with [BAIR](https://bair.berkeley.edu/), and I will be coadvised by Prof. [Bin Yu](https://binyu.stat.berkeley.edu/) and Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/). I recently completed my Master’s degree in Computational Science and Engineering at Harvard University, where I was fortunate to be advised by Prof. [Hima Lakkaraju](https://himalakkaraju.github.io). Prior to that, I earned my Bachelor’s degree from UC Berkeley, double majoring in Computer Science and Psychology through the EECS Honors Program.
+I am a first-year CS PhD student at UC Berkeley advised by Prof. [Bin Yu](https://binyu.stat.berkeley.edu/) and Prof. [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/). I'm affiliated with [Sky Computing Lab](https://sky.cs.berkeley.edu/) and [BAIR](https://bair.berkeley.edu/). I completed my Master’s degree in Computational Science and Engineering at Harvard University, where I was fortunate to be advised by Prof. [Hima Lakkaraju](https://himalakkaraju.github.io). Prior to that, I earned my Bachelor’s degree from UC Berkeley, double majoring in Computer Science and Psychology.
 
 I've been working on the intersections of Trustworthy Machine Learning, LLMs, and Mechanistic Interpretability. Moving forward, I'm also broadly interested in LLM evaluation and alignment. The two overarching research questions I aim to address are:
 
