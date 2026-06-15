@@ -1,34 +1,35 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"yu":
+  - firstname: ["Bin", "B."]
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"stoica":
+  - firstname: ["Ion", "I."]
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"lakkaraju":
+  - firstname: ["Himabindu", "Hima", "H.", "Himabindu Lakkaraju"]
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"srinivas":
+  - firstname: ["Suraj", "S."]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"bhalla":
+  - firstname: ["Usha", "U."]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"krishna":
+  - firstname: ["Satyapriya", "S."]
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"netzorg":
+  - firstname: ["Robin", "R."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"cheng":
+  - firstname: ["Zhihan", "Z."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"zhang":
+  - firstname: ["Zhuoqin", "Z."]
+
+"kumar":
+  - firstname: ["Aounon", "A."]
+
+"agarwal":
+  - firstname: ["Chirag", "C."]
+
+"feizi":
+  - firstname: ["Soheil", "S."]

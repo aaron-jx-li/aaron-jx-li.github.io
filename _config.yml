@@ -4,7 +4,7 @@
 
 title: Aaron J. Li # the website title (if blank, full name will be used instead)
 first_name: Aaron
-middle_name: Jiaxun
+middle_name: J.
 last_name: Li
 email: aaronjli@berkeley.edu
 contact_note: 
@@ -150,20 +150,20 @@ newsletter:
 # # Collections
 # # -----------------------------------------------------------------------------
 
-# collections:
-#   news:
-#     defaults:
-#       layout: post
-#     output: true
-#     permalink: /:collection/:title/
-#   projects:
-#     output: true
-#     permalink: /:collection/:title/
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
+  projects:
+    output: true
+    permalink: /:collection/:title/
 
-# announcements:
-#   enabled: true
-#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-#   limit: 5 # leave blank to include all the news in the `_news` folder
+announcements:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 # latest_posts:
 #   enabled: true
@@ -459,7 +459,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap"
   highlightjs:
     integrity:
       css:
