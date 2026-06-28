@@ -34,7 +34,3 @@ impact. Here are several overarching directions of my current interests:
 · Operationalizing AI safety risks as concrete, measurable behaviors, and studying how post-training and alignment techniques can systematically address them in practice.
 
 I'm always open to collaborations and happy to discuss all kinds of research ideas, and the best way to contact me is through [email](mailto:aaronjli@berkeley.edu). For undergraduate students interested in working with me, I'm happy to have you either leading your own project or joining an existing one as a contributor, if there's a good fit.
-
-<div style="text-align: center; margin-top: 2rem;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=f-gSFQ6uGtfTaz8IlxXu2w_94Z397P7y8Ht6_NziGeM&cl=ffffff&w=a"></script>
-</div>
