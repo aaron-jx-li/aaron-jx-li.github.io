@@ -21,7 +21,7 @@ ninja.data = [{
           description: "CV of Aaron J. Li — PhD student in Computer Science at UC Berkeley.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/CV.pdf";
+            window.location.href = "/cv";
           },
         },{id: "news-our-paper-improving-prototypical-visual-explanations-with-r3-was-accepted-to-icml-2024",
           title: 'Our paper “Improving Prototypical Visual Explanations with R3” was accepted to ICML 2024!...',
